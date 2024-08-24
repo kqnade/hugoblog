@@ -27,8 +27,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/kqnade/hugoblog/contest"
+    URL: "https://github.com/kqnade/hugoblog/issues"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 isCJKLanguage: true
 ---
